@@ -3,19 +3,19 @@ A practical Tampermonkey script built exclusively for the GeoFS flight simulator
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Page Display
 
-### Main Interface
+### Simplified Chinese Display
 <p align="center">
 <img src="https://github.com/Geo-CA/Geofs-Flight-information-plugin/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_28-3-2026_215232_beta.geo-fs.com.jpeg?raw=true" width="700">
 </p>
 
-### Function Demo
+### English Display
 <p align="center">
 <img src="https://github.com/Geo-CA/Geofs-Flight-information-plugin/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_28-3-2026_215336_beta.geo-fs.com.jpeg?raw=true" width="700">
 </p>
 
-### Multi-language Support
+### Traditional Chinese Display
 <p align="center">
 <img src="https://github.com/Geo-CA/Geofs-Flight-information-plugin/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_28-3-2026_215418_beta.geo-fs.com.jpeg?raw=true" width="700">
 </p>
@@ -25,7 +25,7 @@ A practical Tampermonkey script built exclusively for the GeoFS flight simulator
 ## 🚀 Features
 ✅ Flight Information Panel: Input flight number, aircraft type, departure/arrival airports, and estimated flight time  
 ✅ Flight Timer: One-click start/stop to accurately track your flight duration  
-✅ Multi-language Support: Switch seamlessly between English, Simplified Chinese, and Traditional Chinese  
+✅ Multi-language Support: Switch seamlessly between Simplified Chinese, English, and Traditional Chinese  
 ✅ Quick Toggle Button: A "Geofs FIP" button in the bottom-left corner to show/hide the panel instantly  
 ✅ Button Visibility Control: Hide/show the bottom-left button directly from the panel  
 ✅ Key Conflict Fix: No game control triggers when typing in input fields  
@@ -35,13 +35,14 @@ A practical Tampermonkey script built exclusively for the GeoFS flight simulator
 
 ## 📦 Installation
 1. Install the Tampermonkey extension in your browser  
-2. Go to the script page and install it with one click  
-3. Refresh GeoFS, and the plugin will be ready to use
+2. Install the script with one click  
+3. Refresh GeoFS and the plugin will be activated automatically
 
 ---
 
 ## 🎮 Usage
-1. Open GeoFS; the "Geofs FIP" button appears at the bottom left  
-2. Click to open the panel, enter flight info, and start the timer  
-3. Use the language switch to change display language  
-4. Use the hide button to keep your screen clean during flight
+1. Open GeoFS; the "Geofs FIP" button will appear at the bottom left  
+2. Click the button to open the flight information panel  
+3. Enter your flight details and start the timer  
+4. Switch languages anytime using the language selection  
+5. Use the hide button to keep your cockpit view clean
