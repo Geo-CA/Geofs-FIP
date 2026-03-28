@@ -22,7 +22,7 @@ Open Tampermonkey → Add a new script
 Paste the code → Save → Refresh the GeoFS page
 
 🎮 How to Use
-Open GeoFS, and the "Geofs FIP" button will appear in the bottom-left corner
+ Open GeoFS, and the "Geofs FIP" button will appear in the bottom-left corner
 Click the button to open the flight information panel
 Fill in your flight details, then click Start to begin the timer
 After your flight, click Stop to complete the flight log
@@ -35,4 +35,4 @@ Initial release
 Core features implemented: flight information panel, timer, multi-language support, button visibility control, key conflict fix
 
  Author
-@CCA963 (Geo-CA)A GeoFS flight enthusiast focused on building useful tools for flight simulators
+@Geo-CA A GeoFS flight enthusiast focused on building useful tools for flight simulators
