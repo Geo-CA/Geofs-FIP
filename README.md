@@ -1,27 +1,6 @@
 # GeoFS FIP Flight Information Plugin ✈️
 A practical Tampermonkey script built exclusively for the GeoFS flight simulator, designed to help you log flight details and manage your flight data with ease!
 
----
-
-## Page Display
-
-### Simplified Chinese Display
-<p align="center">
-<img src="https://github.com/Geo-CA/Geofs-Flight-information-plugin/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_28-3-2026_215232_beta.geo-fs.com.jpeg?raw=true" width="500">
-</p>
-
-### English Display
-<p align="center">
-<img src="https://github.com/Geo-CA/Geofs-Flight-information-plugin/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_28-3-2026_215336_beta.geo-fs.com.jpeg?raw=true" width="500">
-</p>
-
-### Traditional Chinese Display
-<p align="center">
-<img src="https://github.com/Geo-CA/Geofs-Flight-information-plugin/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_28-3-2026_215418_beta.geo-fs.com.jpeg?raw=true" width="500">
-</p>
-
----
-
 ## 📌 Features
 - ✅ Flight Information Panel: Input flight number, aircraft type, departure/arrival airports, and estimated flight time
 - ✅ Flight Timer: One-click start/stop to accurately track your flight duration
